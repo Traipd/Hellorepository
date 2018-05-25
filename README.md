@@ -1,4 +1,3 @@
-# Hellorepository
 first_repository
 
 大标题
@@ -16,3 +15,6 @@ first_repository
 <br>
 "\\"用于转义字符 <br>
 换行使用 \< br>
+
+第一张图片 <br>
+![Alt text](https://github.com/Traipd/Hellorepository/raw/master/lcat.gif)
